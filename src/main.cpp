@@ -44,4 +44,3 @@ class $modify(CCKeyboardDispatcher) {
         return CCKeyboardDispatcher::dispatchKeyboardMSG(key, isKeyDown, isKeyRepeat);
     }
 };
-
