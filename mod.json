@@ -1,17 +1,10 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
-	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+  "geode": "3.0.0",
+  "gd": {
+    "android": "22.04.31"
+  },
+  "id": "carlos.botmod",
+  "name": "Bot Mod Torneo",
+  "version": "1.0.0",
+  "developer": "Carlos"
 }
