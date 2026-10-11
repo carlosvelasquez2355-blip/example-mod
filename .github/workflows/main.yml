@@ -2,9 +2,11 @@ name: Build Geode Mod
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
 
 jobs:
   build:
-    uses: geode-sdk/build-geode-mod/.github/workflows/build.yml@v1
+    name: Build Mod
+    uses: geode-sdk/build-geode-mod/.github/workflows/build.yml@v2
     
