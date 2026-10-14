@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.1",
+	"gd": {
+		"android": "2.2081"
+	},
+	"id": "carlos.review-assist",
+	"name": "Review Assist",
+	"version": "v1.0.0",
+	"developer": "Carlos",
+	"description": "Bot de ayuda para reviews: mientras mantienes el dedo en la pantalla juega por ti (cube, nave y wave). Botón en el menú de pausa para activarlo/desactivarlo."
+}
